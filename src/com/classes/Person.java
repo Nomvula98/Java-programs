@@ -21,10 +21,10 @@ public class Person {
     double height;
     double weight;
 
-    public void Person(){};
+    //public Person(){};
 
     //Person Constructor
-    public  Person (String name, double height, double weight){
+    public Person (String name, double height, double weight){
         this.name=name;
         this.height=height;
         this.weight=weight;
